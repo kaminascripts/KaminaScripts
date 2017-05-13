@@ -2,9 +2,6 @@ What it can do
 --------------
 - Send Overwatch Player Stats to grapite with a provided user list as parameter
 
-Requisites
-- [overwat-stats](https://libraries.io/pypi/overwatch-stats) lib installed 
-
 Install
 -------
 ```
