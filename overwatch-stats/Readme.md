@@ -10,6 +10,7 @@ cd KaminaScripts/overwatch-stats
 pip install -r requirements.txt
 ```
 Now add your user name in userlist.txt
+
 `echo "YourName#1234" >> userlist.txt`
 
 Usage
